@@ -1,0 +1,7 @@
+Books(Book_ID, Title, Person_ID, Series_Title, Subject_ID, Genre_ID)
+Person(Person_ID, First_Name, Middle_Initial, Last_Name, Phone_Number, Email, Address_ID, Role_ID)
+Address(Address_ID, Street_1, Street_2, City, State, Zip)
+Role (Role_ID, Role)
+Reservations (Reservation_ID, Reservation_Date, Return_Date, Person_ID, Book_ID)
+Genre(Genre_ID, Genre_Title)
+Subject(Subject_ID, Subject_Title)

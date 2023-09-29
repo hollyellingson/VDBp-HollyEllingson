@@ -1,0 +1,8 @@
+(As a <user type>, I want to <some goal> so that <some reason>)
+
+As a reader, I want to search books by subject so I can do research on a topic.
+As a reader, I want to know what books we have in a series so I can read the next book.
+As an administrator, I want to be able to see what books are currently available on my bookshelf. 
+As a reader, I want to be able to search books by author so I can check out similar books from my favorite author. 
+As an administrator, I want to know the contact information for someone that has borrowed a book.
+As an administrator, I want to know the date someone borrowed a book so I can ask them to return it.  
